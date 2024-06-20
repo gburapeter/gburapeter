@@ -4,8 +4,8 @@
 ## 📡 Websites:
 
 #### React Three Fiber:
-[![Portfolio](https://img.shields.io/badge/portfolio_3d-purple)](https://www.gburapeter.info/) 
-[![Bakery](https://img.shields.io/badge/bakery_3d-purple)](https://r3f-bakery-animation.vercel.app/) 
+[![Portfolio](https://img.shields.io/badge/portfolio_3d-darkblue)](https://www.gburapeter.info/) 
+[![Bakery](https://img.shields.io/badge/bakery_3d-darkblue)](https://r3f-bakery-animation.vercel.app/) 
 
 
 
