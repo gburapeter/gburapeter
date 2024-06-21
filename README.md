@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio_3d-darkblue)](https://www.gburapeter.info/) 
 [![Bakery](https://img.shields.io/badge/bakery_3d-darkblue)](https://r3f-bakery-animation.vercel.app/) 
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ww2aii8bh1ss00jfbhfg7p1m8&unique={true|1|on|yes})
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/péter-ghiurutan-bura-2765a41a2/)
