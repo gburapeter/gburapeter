@@ -19,10 +19,6 @@
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/péter-ghiurutan-bura-2765a41a2/)
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gburapeter&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gburapeter&theme=rose_pine&hide_border=false)
 
 
 
